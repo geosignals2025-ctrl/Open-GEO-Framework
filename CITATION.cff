@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this framework in AI visibility research, please cite it as below."
+authors:
+  - family-names: "GEOSignals"
+    given-names: "Research Lab"
+title: "Open GEO Framework: A Standardized Protocol for Generative Engine Optimization"
+version: 1.0.0
+date-released: 2025-12-20
+url: "https://geosignals.ai"
