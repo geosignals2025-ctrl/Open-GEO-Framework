@@ -1,0 +1,30 @@
+{
+  "case_study_id": "OGF-2026-NZ-002",
+  "industry": "International Education & Immigration Consulting",
+  "anonymized_client": "Elite-Pathway-Global (Anonymized)",
+  "audit_date": "2026-01-15",
+  "status": "Security-Compromised / Semantic-Obsolete",
+  "metrics": {
+    "initial_geo_score": 30.0,
+    "score_breakdown": {
+      "security_posture": "30/100",
+      "identity_grid": "0/100",
+      "code_health": "70/100",
+      "ai_visibility": "30/100"
+    },
+    "threat_level": "CRITICAL (SEO Spam Injection Detected)"
+  },
+  "key_signals_detected": [
+    "Malicious SEO Spam Injection: Hidden pornographic/gambling keywords and black-market contact info detected in source code.",
+    "Stale Semantic Data: Core service pages incorrectly tagged as 'Article' with timestamps frozen in 2016.",
+    "Digital Homelessness: Complete absence from Wikidata (No Q-ID identifier).",
+    "The 'Enlightener vs Harvester' Dilemma: Site educates users on general terms but loses high-value conversion to data-optimized competitors."
+  ],
+  "optimization_vector": [
+    "Phase 1 (Security Hemostasis): Cleanup of malicious scripts, patching search vulnerabilities, and WAF rule configuration.",
+    "Phase 2 (Identity Correction): Transformation of 'Article' schema into 'EducationalOrganization' and 'Service' nodes.",
+    "Phase 3 (Trust Building): Wikidata entity anchoring and AggregateRating injection to sync 155+ 5-star Google Reviews with AI Knowledge Graphs.",
+    "Deployment of llms.txt to guide AI agents toward current 2026 service protocols."
+  ],
+  "result_summary": "A high-stakes turnaround case. Transitioning from a hacked, 'invisible' entity into a high-trust, verified knowledge node in the Reasoning Economy."
+}
