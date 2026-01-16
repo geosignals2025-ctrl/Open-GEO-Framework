@@ -1,0 +1,30 @@
+{
+  "case_study_id": "OGF-2026-NZ-003",
+  "industry": "Kitchen Design & Interior Renovation",
+  "anonymized_client": "Auckland-Kitchen-Atelier (Anonymized)",
+  "audit_date": "2026-01-10",
+  "status": "Security-Optimized / Semantic-Void",
+  "metrics": {
+    "initial_geo_score": 67.0,
+    "score_breakdown": {
+      "security_health": "23/25",
+      "code_health": "15/25",
+      "identity_health": "6/20",
+      "ai_cognitive_health": "23/30"
+    },
+    "optimized_target_score": 90.0
+  },
+  "key_signals_detected": [
+    "Digital Health vs. Semantic Vacuum: Excellent baseline security and HTTPS deployment, but zero presence in AI cognitive ecosystems.",
+    "Visual Asset Invisibility: Critical gap in visual search prominence, a severe disadvantage for design-centric industries.",
+    "Missing Industry Anchors: Lack of linkage to New Zealand building authorities (MBIE, BRANZ) and professional associations.",
+    "Recommendation Failure: AI stress tests show 0% Share of Recommendation (SoR) for Auckland kitchen design queries, with competitors dominating the 'Logic Path'."
+  ],
+  "optimization_vector": [
+    "Implementation of 'Organization', 'FAQPage', and 'LocalBusiness' Schema.org nodes to define professional identity.",
+    "Identity Anchoring via Wikidata to transition from a 'non-associated string' to a 'standardized knowledge node'.",
+    "Deployment of llms.txt interaction protocol to clarify service area (Greater Auckland) and design philosophy.",
+    "SameAs attribute injection to sync social footprints (Houzz, Facebook) with the central brand entity."
+  ],
+  "result_summary": "Identified as an 'Ancient book without an ISBN'. Despite high-quality physical services, the entity lacks a digital certificate of identity in the Reasoning Economy."
+}
