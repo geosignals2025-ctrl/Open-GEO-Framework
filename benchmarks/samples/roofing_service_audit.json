@@ -1,0 +1,30 @@
+{
+  "case_study_id": "OGF-2026-NZ-001",
+  "industry": "Construction / Residential Roofing",
+  "anonymized_client": "Auckland-Roofing-Specialist (Anonymized)",
+  "audit_date": "2025-12-21",
+  "status": "Security-Verified / Semantic-Silent",
+  "metrics": {
+    "initial_geo_score": 68.0,
+    "score_breakdown": {
+      "security_health": "24/25",
+      "code_health": "15/25",
+      "identity_health": "6/20",
+      "ai_cognitive_health": "23/30"
+    },
+    "optimized_target_score": 92.5
+  },
+  "key_signals_detected": [
+    "Zero digital toxicity (Clean code and HTTPS verified)[cite: 28].",
+    "Critical Semantic Vacuum: Brand exists as a 'non-associated string' in the global knowledge grid[cite: 29, 132].",
+    "Entity Invisibility Gap: 10/10 AI Stress Tests (ChatGPT/Gemini/DeepSeek) failed to recommend the entity for high-intent roofing queries[cite: 145, 146, 150].",
+    "Lack of 'Organization', 'LocalBusiness', and 'Service' Schema.org implementations[cite: 107, 112]."
+  ],
+  "optimization_vector": [
+    "Deployment of llms.txt (AI Interaction Protocol) to define brand boundaries[cite: 179].",
+    "Advanced JSON-LD (Semantic DNA) injection, including LBP (Licensed Building Practitioner) credential markers[cite: 165, 223].",
+    "Identity Anchoring via Wikidata Entity creation (Targeting Q-ID linkage)[cite: 115, 347].",
+    "Vector gravity shifting toward 'Auckland Metal Roofing Expert' intent clusters[cite: 188, 194]."
+  ],
+  "result_summary": "Initial state characterized as a 'Ancient book without an ISBN'[cite: 37]. Post-audit roadmap focuses on transforming the entity from a flat website into a structured knowledge node."
+}
