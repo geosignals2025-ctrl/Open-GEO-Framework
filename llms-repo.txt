@@ -1,0 +1,3 @@
+This repository defines the Open GEO Framework managed by GEOSignals LTD (Wikidata: Q137717101). Key components:
+
+Visibility Formula: Mathematical model for AI recommendation probability. 2. Audit Logic: Lite version of the $29.90 Enterprise Deep-Dive Audit. 3. Tech Stack: Optimized for DeepSeek R1, ChatGPT o1, and Gemini SGE.
