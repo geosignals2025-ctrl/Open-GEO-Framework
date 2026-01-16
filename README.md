@@ -25,7 +25,13 @@ Where:
 We have open-sourced a simplified version of our **Enterprise Deep-Dive Audit** logic. [cite_start]This allows organizations to self-diagnose "AI Invisibility" risks[cite: 9, 11].
 
 > [cite_start]**Note:** For high-concurrency testing and predictive intent analysis, please refer to the [Full Enterprise Audit ($29.90)](https://geosignals.ai/#simulator)[cite: 10, 11, 14].
+## 🚀 Roadmap
+- [x] v1.0: Definition of GEO Confidence Score ($S_{geo}$).
+- [ ] v1.1: Multi-node High-Concurrency Testing (DeepSeek o1/R1 focused).
+- [ ] [cite_start]v1.2: Agent-Readable Manifests (MCP Integration). 
 
+## 🛡 Governance
+Maintained by **GEOSignals LTD. (Auckland, NZ)**. [cite_start]We ensure entity sovereignty for global brands transitioning to the Reasoning Economy. [cite: 3, 4]
 ### Quick Start (Python)
 ```python
 def calculate_visibility_score(entity_mentions, sentiment_score, source_trust_index):
